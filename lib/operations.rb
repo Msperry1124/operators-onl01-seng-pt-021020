@@ -14,5 +14,7 @@ end
 
 
 def not_safe?(speed)
+  (conditional) ? 'true/truthy' : 'false/falsey'
+  
 
 end
