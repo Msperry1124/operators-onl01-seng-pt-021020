@@ -1,6 +1,6 @@
-require pry
+require 'pry'
 def unsafe?(speed)
-#binding.pry
+binding.pry
 end
 
 
